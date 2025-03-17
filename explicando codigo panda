@@ -1,0 +1,9 @@
+importação de bibliotecas pandas e matplotlib
+carregue os dados com os pandas
+ccriei uma figure com pyplot
+usando o for para cada produto, sera buscado o preço e o ano
+plot o preço e ao de cada produto no grafico
+adicione o titulo do gráfico
+adicione o titulo de eixo X que sera o ano
+adicione o titulo do eixo Y que sera o preço
+apresentar o grafico com a função show()
